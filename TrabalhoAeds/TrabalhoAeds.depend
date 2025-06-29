@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1751226203 source:c:\users\clara\onedrive\햞ea de trabalho\aulas aeds trabalho\trabalhoaeds\interface.c
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	"interface.h"
+
+1751226203 c:\users\clara\onedrive\햞ea de trabalho\aulas aeds trabalho\trabalhoaeds\interface.h
+
+1751235648 source:c:\users\clara\onedrive\햞ea de trabalho\aulas aeds trabalho\trabalhoaeds\main.c
+	<stdio.h>
+	<stdlib.h>
+	"produto.h"
+	"cliente.h"
+	"interface.h"
+	"venda.h"
+
+1751235648 c:\users\clara\onedrive\햞ea de trabalho\aulas aeds trabalho\trabalhoaeds\produto.h
+
+1751226203 c:\users\clara\onedrive\햞ea de trabalho\aulas aeds trabalho\trabalhoaeds\cliente.h
+
+1751235648 source:c:\users\clara\onedrive\햞ea de trabalho\aulas aeds trabalho\trabalhoaeds\produto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"produto.h"
+	"interface.h"
+
+1751226904 source:c:\users\clara\onedrive\햞ea de trabalho\aulas aeds trabalho\trabalhoaeds\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	"cliente.h"
+
+1751235648 c:\users\clara\onedrive\햞ea de trabalho\aulas aeds trabalho\trabalhoaeds\venda.h
+
+1751235648 source:c:\users\clara\onedrive\햞ea de trabalho\aulas aeds trabalho\trabalhoaeds\venda.c
+	<stdio.h>
+	<stdlib.h>
+	"venda.h"
+	"produto.h"
+	"cliente.h"
+
